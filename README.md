@@ -1,0 +1,8 @@
+- 👋 Hi, I’m @Rmjhn05
+- 👀 I’m interested in
+- Programming
+- 🌱 I’m currently learning
+- Javascript, Node JS, Java Languages
+- 📫 How to reach me:
+- Facebook: Romeo John (https://facebook.com/RomeowJ05)
+-Email: adorromeojohn0105@gmail.com
